@@ -1,4 +1,8 @@
-## Hi there 👋
+I make websites
+I make servers
+¯\_(ツ)_/¯
+
+More about me on https://beath.dev
 
 <!--
 **Beatheru/Beatheru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
